@@ -1,0 +1,10 @@
+Comandos de compilacion:
+
+gcc -c fun_gimm.c
+gcc -o gimm gimm.c fitxer.o fun_gimm.o
+./gimm
+
+Participantes:
+Hector Manuel Martinez
+Manuel Lorenzo
+DAniel Ruz
